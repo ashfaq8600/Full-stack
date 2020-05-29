@@ -1,0 +1,64 @@
+.a1{
+    text-align: center;
+    border-style: dotted;
+    border-width: 3px;
+    border-radius: 4px;
+    border-color: limegreen;
+}
+.a2{
+    text-align: center;
+    border-style: double;
+    border-width: 5px;
+    border-radius: 3px;
+    border-color: darkred;
+}
+.a3{
+    text-align: center;
+    border-style: groove;
+    border-width: 7px;
+    border-radius: 4px;
+    border-color: darkolivegreen;
+}
+.a4{
+    text-align: center;
+    border-style: double;
+    border-width: 3px;
+    border-top-color: red;
+    border-bottom-color: green;
+    border-left-color: yellow;
+    border-right-color: teal;
+}
+.b1{
+    text-align: center;
+    border-style: dotted;
+    border-width: 3px;
+    border-radius: 4px;
+    border-color: limegreen;
+    background-image: url(backgroundimg.jpg);
+}
+.b2{
+    text-align: center;
+    border-style: double;
+    border-width: 5px;
+    border-radius: 3px;
+    border-color: darkred;
+    background-image: url(backgroundimg.jpg);
+}
+.b3{
+    text-align: center;
+    border-style: groove;
+    border-width: 7px;
+    border-radius: 4px;
+    border-color: darkolivegreen;
+    background-image: url(backgroundimg.jpg);
+}
+.b4{
+    text-align: center;
+    border-style: double;
+    border-width: 3px;
+    border-top-color: red;
+    border-bottom-color: green;
+    border-left-color: yellow;
+    border-right-color: teal;
+    background-image: url(backgroundimg.jpg);
+}

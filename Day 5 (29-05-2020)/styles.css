@@ -1,0 +1,46 @@
+.a1{
+    background-color: lightblue;
+}
+.a2{
+    background-color: lightcyan;
+}
+.a3{
+    background-color: lightsteelblue;
+}
+.b1{
+    width: 100%;
+    height: 100%;
+    background-image: url('backgroundimg.jpg');
+    background-image: no-repeat;
+    background-position: top right;
+}
+.b2{
+    width: 70%;
+    height: 100%;
+    background-image: url('backgroundimg.jpg');
+}
+.b3{
+    width: 70%;
+    height: 100%;
+    background-image: url('backgroundimg.jpg');
+}
+.c1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 30px;
+    font-variant: small-caps;
+    font-weight: bolder;
+}
+c2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style:normal;
+    font-size: xx-large;
+    font-variant: normal;
+    font-weight: bold;
+}
+c3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+    font-size: 25px;
+    font-weight: lighter;
+}
